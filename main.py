@@ -4,7 +4,6 @@ counter = 0
 pile = []
 maxtry = 5
 prediction = 0
-#prediction2 = -1
 
 while prediction != rand_num:
     counter += 1
