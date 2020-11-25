@@ -17,7 +17,7 @@ while prediction != rand_num:
 
         counter += -1
 
-    elif counter >= 5:
+    elif counter > 5:
 
         print("YOU LOST"
               ""
